@@ -1,3 +1,10 @@
 # Snake_Game
 This repo is one of my project from 'PythonProjects' repo with detailed description 
-![Sample Image]([./assets/sample_image.png](https://github.com/su31kh/Snake_Game/blob/main/python_YNqQrnvHzU.png)https://github.com/su31kh/Snake_Game/blob/main/python_YNqQrnvHzU.png)
+
+Game preview with teleportation through the walls.
+
+![Sample Image](python_bPWwuka0AZ.png)
+
+End of the game and display of score and high score.
+
+![Sample Image](python_YNqQrnvHzU.png)
